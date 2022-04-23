@@ -1,0 +1,31 @@
+.container{
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    background: url(../../assets/images/bg_predict.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+form{
+    padding: 25px;
+    background-color: #f8f9fa;
+    border-radius: 2%;
+}
+
+.form-group{
+    margin: 12px;
+}
+
+button{
+    margin-top: 55px;
+    display: table;
+    margin: auto;
+}

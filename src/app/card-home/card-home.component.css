@@ -1,0 +1,23 @@
+.image{
+    transform: skewY(4deg);
+    
+    width: 100%;
+    background-color: black;
+    
+}
+
+img{
+    margin-top: -20px;
+    width: 100%;
+}
+
+.card {
+    margin-top: 25px;
+    overflow: hidden;
+    align-items: center;
+    border-radius: 3%;
+}
+
+.btn{
+    background-color: #212529;
+}

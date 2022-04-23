@@ -1,0 +1,22 @@
+.container{
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    background: url(../../assets/images/Bg_Home.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    color: #f8f9fa;
+}
